@@ -377,8 +377,8 @@ body {
     }
 
     .img-footer {
-        width: 80%;
-        max-width: 300px;
+        width: 100%;
+        max-width: 500px;
         height: auto;
     }
 

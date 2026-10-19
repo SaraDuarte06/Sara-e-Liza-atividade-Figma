@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f8f9fa;
+    background-color: #ffffff;
     color: #212529;
 }
 
@@ -306,11 +306,25 @@ body {
 }
 
 .rodape {
-    background-color: #EDF7FA;
+    background-color: #ffffff;
     text-align: center;
-    padding: 30px 20px;
-    width: 100%;
-    overflow: hidden;
+    padding: 40px 20px;
+}
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    margin-bottom: 25px;
+}
+
+.redes-sociais img {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+}
+.copyright {
+    font-size: 14px;
+    color: #21243D;
 }
 
 .img-footer {
